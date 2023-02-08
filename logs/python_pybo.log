@@ -14611,3 +14611,166 @@ django.urls.exceptions.NoReverseMatch: Reverse for 'answer_create' with argument
 [2023-02-08 12:03:13] autoreload -677 INFO Watching for file changes with StatReloader
 [2023-02-08 12:04:00] autoreload -266 INFO C:\projects\mysite\pybo\urls.py changed, reloading.
 [2023-02-08 12:04:00] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-08 12:25:33] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-08 12:25:38] base_views -40 INFO page:1
+[2023-02-08 12:25:38] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:25:38] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17658
+[2023-02-08 12:25:40] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:25:40] base_views -24 INFO 2. question:금요일입니다33322
+[2023-02-08 12:25:40] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 5696
+[2023-02-08 12:25:42] base_views -40 INFO page:1
+[2023-02-08 12:25:42] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:25:42] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17658
+[2023-02-08 12:25:44] basehttp -187 INFO "GET /pybo/crawling/cgv/ HTTP/1.1" 200 8724
+[2023-02-08 12:25:47] basehttp -187 INFO "GET /pybo/boot/list/ HTTP/1.1" 200 7676
+[2023-02-08 12:25:48] basehttp -187 INFO "GET /pybo/boot/list/ HTTP/1.1" 200 7676
+[2023-02-08 12:25:50] basehttp -187 INFO "GET /pybo/boot/list/ HTTP/1.1" 200 7676
+[2023-02-08 12:25:50] basehttp -187 INFO "GET /pybo/boot/list/ HTTP/1.1" 200 7676
+[2023-02-08 12:25:52] base_views -40 INFO page:1
+[2023-02-08 12:25:52] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:25:52] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17658
+[2023-02-08 12:25:53] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:25:53] base_views -24 INFO 2. question:금요일입니다33322
+[2023-02-08 12:25:53] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 5696
+[2023-02-08 12:25:58] answer_views -63 INFO answer_create question_id:516
+[2023-02-08 12:25:58] basehttp -187 INFO "POST /pybo/answer/create/516/ HTTP/1.1" 302 0
+[2023-02-08 12:25:58] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:25:58] base_views -24 INFO 2. question:금요일입니다33322
+[2023-02-08 12:25:58] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6807
+[2023-02-08 12:25:59] base_views -40 INFO page:1
+[2023-02-08 12:25:59] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:25:59] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17741
+[2023-02-08 12:26:03] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:26:03] base_views -24 INFO 2. question:금요일입니다33322
+[2023-02-08 12:26:03] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6807
+[2023-02-08 12:26:04] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:26:04] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:26:04] basehttp -187 INFO "GET /pybo/question/modify/516/ HTTP/1.1" 200 4081
+[2023-02-08 12:26:08] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:26:08] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:26:08] basehttp -187 INFO "POST /pybo/question/modify/516/ HTTP/1.1" 302 0
+[2023-02-08 12:26:08] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:26:08] base_views -24 INFO 2. question:금요일입니다
+[2023-02-08 12:26:08] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6804
+[2023-02-08 12:26:53] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:26:53] base_views -24 INFO 2. question:금요일입니다
+[2023-02-08 12:26:53] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6804
+[2023-02-08 12:26:55] base_views -40 INFO page:1
+[2023-02-08 12:26:55] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:26:55] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17736
+[2023-02-08 12:26:57] basehttp -187 INFO "GET /pybo/crawling/cgv/ HTTP/1.1" 200 8724
+[2023-02-08 12:27:00] basehttp -187 INFO "GET /pybo/boot/list/ HTTP/1.1" 200 7676
+[2023-02-08 12:27:01] basehttp -187 INFO "GET /pybo/boot/list/ HTTP/1.1" 200 7676
+[2023-02-08 12:27:02] base_views -40 INFO page:1
+[2023-02-08 12:27:02] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:27:02] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17736
+[2023-02-08 12:27:03] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:27:03] base_views -24 INFO 2. question:금요일입니다
+[2023-02-08 12:27:03] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6804
+[2023-02-08 12:27:06] base_views -40 INFO page:1
+[2023-02-08 12:27:06] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:27:06] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17736
+[2023-02-08 12:27:07] basehttp -187 INFO "GET /pybo/boot/list/ HTTP/1.1" 200 7676
+[2023-02-08 12:27:09] base_views -40 INFO page:1
+[2023-02-08 12:27:09] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:27:09] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17736
+[2023-02-08 12:27:10] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:27:10] base_views -24 INFO 2. question:금요일입니다
+[2023-02-08 12:27:10] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6804
+[2023-02-08 12:27:11] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:27:11] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:27:11] basehttp -187 INFO "GET /pybo/question/modify/516/ HTTP/1.1" 200 4071
+[2023-02-08 12:27:14] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:27:14] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:27:14] basehttp -187 INFO "POST /pybo/question/modify/516/ HTTP/1.1" 302 0
+[2023-02-08 12:27:14] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:27:14] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:27:14] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6801
+[2023-02-08 12:27:16] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:27:16] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:27:16] basehttp -187 INFO "GET /pybo/question/modify/516/ HTTP/1.1" 200 4075
+[2023-02-08 12:27:19] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:27:19] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:27:19] basehttp -187 INFO "POST /pybo/question/modify/516/ HTTP/1.1" 302 0
+[2023-02-08 12:27:19] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:27:19] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:27:19] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6805
+[2023-02-08 12:27:22] base_views -40 INFO page:1
+[2023-02-08 12:27:22] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:27:22] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17738
+[2023-02-08 12:27:24] base_views -40 INFO page:1
+[2023-02-08 12:27:24] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:27:24] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17738
+[2023-02-08 12:27:26] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:27:26] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:27:26] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6805
+[2023-02-08 12:29:18] autoreload -266 INFO C:\projects\mysite\pybo\urls.py changed, reloading.
+[2023-02-08 12:29:19] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-08 12:31:05] autoreload -266 INFO C:\projects\mysite\pybo\urls.py changed, reloading.
+[2023-02-08 12:31:06] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-08 12:31:06] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:06] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:31:06] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6805
+[2023-02-08 12:31:08] base_views -40 INFO page:1
+[2023-02-08 12:31:08] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:31:08] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17738
+[2023-02-08 12:31:10] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:10] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:31:10] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6805
+[2023-02-08 12:31:12] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:31:12] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:31:12] basehttp -187 INFO "GET /pybo/question/modify/516/ HTTP/1.1" 200 4075
+[2023-02-08 12:31:14] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:31:14] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:31:14] basehttp -187 INFO "POST /pybo/question/modify/516/ HTTP/1.1" 302 0
+[2023-02-08 12:31:14] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:14] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:31:14] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6803
+[2023-02-08 12:31:19] basehttp -187 INFO "GET /pybo/answer/delete/13/ HTTP/1.1" 302 0
+[2023-02-08 12:31:19] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:19] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:31:19] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 5692
+[2023-02-08 12:31:25] answer_views -63 INFO answer_create question_id:516
+[2023-02-08 12:31:25] basehttp -187 INFO "POST /pybo/answer/create/516/ HTTP/1.1" 302 0
+[2023-02-08 12:31:25] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:25] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:31:25] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6803
+[2023-02-08 12:31:28] base_views -40 INFO page:1
+[2023-02-08 12:31:28] base_views -60 INFO question_list:<Page 1 of 52>
+[2023-02-08 12:31:28] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17738
+[2023-02-08 12:31:30] base_views -20 INFO 1. question_id:512
+[2023-02-08 12:31:30] base_views -24 INFO 2. question:user
+[2023-02-08 12:31:30] basehttp -187 INFO "GET /pybo/512/ HTTP/1.1" 200 5152
+[2023-02-08 12:31:33] base_views -20 INFO 1. question_id:505
+[2023-02-08 12:31:33] base_views -24 INFO 2. question:22금요일입니다.[499]
+[2023-02-08 12:31:33] basehttp -187 INFO "GET /pybo/505/ HTTP/1.1" 200 5703
+[2023-02-08 12:31:36] basehttp -187 INFO "GET /pybo/question/delete/505/ HTTP/1.1" 302 0
+[2023-02-08 12:31:36] base_views -40 INFO page:1
+[2023-02-08 12:31:36] base_views -60 INFO question_list:<Page 1 of 51>
+[2023-02-08 12:31:36] basehttp -187 INFO "GET /pybo/ HTTP/1.1" 200 17573
+[2023-02-08 12:31:40] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:40] base_views -24 INFO 2. question:금요일입니다11
+[2023-02-08 12:31:40] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6803
+[2023-02-08 12:31:42] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:31:42] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:31:42] basehttp -187 INFO "GET /pybo/question/modify/516/ HTTP/1.1" 200 4075
+[2023-02-08 12:31:47] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:31:47] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:31:47] basehttp -187 INFO "POST /pybo/question/modify/516/ HTTP/1.1" 302 0
+[2023-02-08 12:31:47] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:47] base_views -24 INFO 2. question:금요일입니다0208
+[2023-02-08 12:31:47] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6805
+[2023-02-08 12:31:49] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:49] base_views -24 INFO 2. question:금요일입니다0208
+[2023-02-08 12:31:49] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6805
+[2023-02-08 12:31:50] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:31:50] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:31:50] basehttp -187 INFO "GET /pybo/question/modify/516/ HTTP/1.1" 200 4079
+[2023-02-08 12:31:52] question_views -31 INFO 1. question_id:516
+[2023-02-08 12:31:52] question_views -34 INFO 2. question.id:516
+[2023-02-08 12:31:52] basehttp -187 INFO "POST /pybo/question/modify/516/ HTTP/1.1" 302 0
+[2023-02-08 12:31:52] base_views -20 INFO 1. question_id:516
+[2023-02-08 12:31:52] base_views -24 INFO 2. question:금요일입니다0208
+[2023-02-08 12:31:52] basehttp -187 INFO "GET /pybo/516/ HTTP/1.1" 200 6807
+[2023-02-08 12:33:09] autoreload -266 INFO C:\projects\mysite\config\urls.py changed, reloading.
+[2023-02-08 12:33:09] autoreload -677 INFO Watching for file changes with StatReloader

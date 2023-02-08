@@ -54,7 +54,7 @@ from django.utils import timezone
 
 from django.contrib import admin
 from django.urls import path,include
-from pybo import views
+from pybo.views import base_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -62,5 +62,5 @@ urlpatterns = [
     path('pybo/', include('pybo.urls')),  #pybo로 요청 들어오면 urls가 처리한다.
     path('common', include('common.urls')),
     # common로 요청 들어오면 urls가 처리한다.
-    path('',views.index, name='index')
+    path('',base_views.index, name='index')
 ]
