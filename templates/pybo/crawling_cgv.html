@@ -1,0 +1,52 @@
+    {% extends 'base.html' %}
+    {% block content %}
+    <!-- container-->
+    <div class="container">
+        <!-- 제목 -->
+        <div class="text-start mb-5">
+            <h2 class="border-bottom py-2">무비차트</h2>
+        </div>
+                {% if context %}
+                    <div class="row">
+                {% for t,r,p in context %}
+                      <div class="card col-3 p-3" style="width: 18rem;">
+                          <img src="{{p}}" class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">{{t}}</h5>
+                            <h6 class="card-title">예매율: {{r}}</h6>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">예매하기</a>
+                          </div>
+                      </div>
+                {% endfor%}
+                </div>
+                {% else %}
+                    <p>
+                        no data found
+                    </p>
+                {% endif %}
+                </div>
+    </div>
+    <!-- paging -->
+    <div class="d-grid gap-2 d-md-flex justify-content-center">
+        <nav aria-label="Page navigation example">
+          <ul class="pagination">
+            <li class="page-item">
+              <a class="page-link" href="#" aria-label="Previous">
+                <span aria-hidden="true">&laquo;</span>
+              </a>
+            </li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item">
+              <a class="page-link" href="#" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+    </div>
+    <!-- paging end -->
+    <!-- container end-->
+    {% endblock %}

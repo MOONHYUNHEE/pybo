@@ -52,10 +52,15 @@ from django.utils import timezone
 # #Question에서 Answer 답변 조회
 # q.answer_set.all() # 출력 결과 : <QuerySet [<Answer: Answer object (1)>]>
 
+from django.contrib import admin
+from django.urls import path,include
 from pybo import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    # path('pybo/', views.index)
-    path('pybo/', include('pybo.urls'))  #pybo로 요청 들어오면 urls가 처리한다.
+    # path('pybo/', views.index),
+    path('pybo/', include('pybo.urls')),  #pybo로 요청 들어오면 urls가 처리한다.
+    path('common', include('common.urls')),
+    # common로 요청 들어오면 urls가 처리한다.
+    path('',views.index, name='index')
 ]
