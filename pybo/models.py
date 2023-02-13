@@ -9,11 +9,15 @@ class Question(models.Model):
     create_date = models.DateTimeField() # 날짜 + 시간
 
     # author필드 추가: 글쓴이
-    author=models.ForeignKey(User,on_delete=models.CASCADE)  #회원테이블에 사용자 정보가 삭제되면  Question 테이블의 질문정보도 같이 삭제
+    author=models.ForeignKey(User,on_delete=models.CASCADE, related_name='author_question')  #회원테이블에 사용자 정보가 삭제되면  Question 테이블의 질문정보도 같이 삭제
 
     #수정일시 추가
     modify_date = models.DateTimeField(null=True, blank=True)
     # 데이터 베이스에서 null 허용,form
+
+    #추천 (다대다 관계 표시 필드 추가 )
+    voter = models.ManyToManyField(User, related_name='voter_question')
+
 
 
     def __str__(self):
@@ -21,7 +25,7 @@ class Question(models.Model):
 
 
 class Answer(models.Model):
-    question = models.ForeignKey(Question, on_delete=models.CASCADE) #Question 삭제 시 Question과 연관된 것들 다 삭제 (답변에 연관된 질문이 삭제되면 답변도 모두 삭제 )
+    question = models.ForeignKey(Question, on_delete=models.CASCADE, related_name='author_answer') #Question 삭제 시 Question과 연관된 것들 다 삭제 (답변에 연관된 질문이 삭제되면 답변도 모두 삭제 )
     content = models.TextField() # 글자 수 제한 없는 컬럼
     create_date = models.DateTimeField() # 날짜 + 시간
     author = models.ForeignKey(User, on_delete=models.CASCADE)
@@ -35,4 +39,7 @@ class Answer(models.Model):
     #수정일시 추가
     modify_date = models.DateTimeField(null=True, blank=True)
     # modify_date = models.DateTimeField(null=True, blank=True)
+
+    #추천
+    voter = models.ManyToManyField(User, related_name='voter_answer')
 

@@ -12,11 +12,20 @@ from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.http import HttpResponseNotAllowed
 # ctrl+alt+o : import 정리
-from django.shortcuts import render, get_object_or_404, redirect
+from django.shortcuts import render, get_object_or_404, redirect, resolve_url
 from django.utils import timezone
 from ..forms import AnswerForm
 from ..models import Question, Answer
 
+@login_required(login_url='common_login')
+def answer_vote(request, answer_id):
+    answer=get_object_or_404(Answer, pk=answer_id)
+    if request.user != answer.author:
+        messages.error(request, '본인 작성한 글은 추천할 수 없습니다.')
+    else:
+        answer.voter()
+    return redirect('{}#answer_{}'.format(
+        resolve_url('pybo:detail', question_id=answer.question.id), answer.id))
 
 @login_required(login_url='common:login')
 def answer_delete(request, answer_id):
@@ -55,7 +64,8 @@ def answer_modify(request,answer_id):
     else:                               #수정 form의 template
         form = AnswerForm(instance=answer)
     context={'answer':answer, 'form':form}
-    return render(request, 'pybo/answer_form.html',context)
+    return redirect('{}#answer_{}'.format(
+        resolve_url('pybo:detail', question_id=answer.question.id), answer.id))
 
 @login_required(login_url='common:login')
 def answer_create(request, question_id):
@@ -70,9 +80,10 @@ def answer_create(request, question_id):
             answer.create_date = timezone.now()
             answer.question = question
             answer.save()  # 날짜까지 생성해서 저장
-            return redirect('pybo:detail', question_id=question_id)
+            return redirect('{}#answer_{}'.format(
+                resolve_url('pybo:detail', question_id=question.id), answer.id))
     else:
         return HttpResponseNotAllowed('Post만 가능합니다.')
     context = {'question': question, 'form':form }
-    return render(request, 'pybo/question_detail.html', context)
+    return render(request,'pybo/question_detail.html',context)
 
