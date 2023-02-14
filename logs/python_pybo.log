@@ -20291,3 +20291,67 @@ django.core.exceptions.FieldError: Cannot resolve keyword 'answer' into field. C
 [2023-02-12 23:39:08] base_views -26 INFO div:
 [2023-02-12 23:39:08] base_views -27 INFO size:10
 [2023-02-12 23:39:08] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 09:31:19] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-14 09:31:25] exception -124 ERROR Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2023-02-14 09:31:25] log -241 WARNING Bad Request: /
+[2023-02-14 09:31:25] exception -124 ERROR Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2023-02-14 09:31:25] log -241 WARNING Bad Request: /favicon.ico
+[2023-02-14 10:03:15] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-14 10:03:35] base_views -24 INFO page:1
+[2023-02-14 10:03:35] base_views -25 INFO kw:
+[2023-02-14 10:03:35] base_views -26 INFO div:
+[2023-02-14 10:03:35] base_views -27 INFO size:10
+[2023-02-14 10:03:35] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:03:35] log -241 WARNING Not Found: /favicon.ico
+[2023-02-14 10:03:38] base_views -24 INFO page:1
+[2023-02-14 10:03:38] base_views -25 INFO kw:
+[2023-02-14 10:03:38] base_views -26 INFO div:
+[2023-02-14 10:03:38] base_views -27 INFO size:10
+[2023-02-14 10:03:38] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:03:44] base_views -24 INFO page:1
+[2023-02-14 10:03:44] base_views -25 INFO kw:
+[2023-02-14 10:03:44] base_views -26 INFO div:
+[2023-02-14 10:03:44] base_views -27 INFO size:10
+[2023-02-14 10:03:44] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:03:48] base_views -8 INFO 1.question_id:533
+[2023-02-14 10:03:48] base_views -11 INFO 2.question:마크다운
+[2023-02-14 10:03:48] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
+[2023-02-14 10:03:48] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+[2023-02-14 10:04:44] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-14 10:04:53] exception -124 ERROR Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+[2023-02-14 10:04:53] log -241 WARNING Bad Request: /
+[2023-02-14 10:10:51] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-14 10:11:50] base_views -24 INFO page:1
+[2023-02-14 10:11:50] base_views -25 INFO kw:
+[2023-02-14 10:11:50] base_views -26 INFO div:
+[2023-02-14 10:11:50] base_views -27 INFO size:10
+[2023-02-14 10:11:50] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:11:52] base_views -24 INFO page:1
+[2023-02-14 10:11:52] base_views -25 INFO kw:
+[2023-02-14 10:11:52] base_views -26 INFO div:
+[2023-02-14 10:11:52] base_views -27 INFO size:10
+[2023-02-14 10:11:52] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:11:55] base_views -8 INFO 1.question_id:533
+[2023-02-14 10:11:55] base_views -11 INFO 2.question:마크다운
+[2023-02-14 10:11:55] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
+[2023-02-14 10:11:55] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+[2023-02-14 10:26:09] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-14 10:26:12] base_views -24 INFO page:1
+[2023-02-14 10:26:12] base_views -25 INFO kw:
+[2023-02-14 10:26:12] base_views -26 INFO div:
+[2023-02-14 10:26:12] base_views -27 INFO size:10
+[2023-02-14 10:26:12] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:26:14] base_views -24 INFO page:1
+[2023-02-14 10:26:14] base_views -25 INFO kw:
+[2023-02-14 10:26:14] base_views -26 INFO div:
+[2023-02-14 10:26:14] base_views -27 INFO size:10
+[2023-02-14 10:26:14] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:26:14] base_views -24 INFO page:1
+[2023-02-14 10:26:14] base_views -25 INFO kw:
+[2023-02-14 10:26:14] base_views -26 INFO div:
+[2023-02-14 10:26:14] base_views -27 INFO size:10
+[2023-02-14 10:26:14] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-14 10:26:17] base_views -8 INFO 1.question_id:533
+[2023-02-14 10:26:17] base_views -11 INFO 2.question:마크다운
+[2023-02-14 10:26:18] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
+[2023-02-14 10:26:18] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
