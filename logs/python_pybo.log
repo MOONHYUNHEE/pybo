@@ -20355,3 +20355,44 @@ django.core.exceptions.FieldError: Cannot resolve keyword 'answer' into field. C
 [2023-02-14 10:26:17] base_views -11 INFO 2.question:마크다운
 [2023-02-14 10:26:18] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
 [2023-02-14 10:26:18] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+[2023-02-15 09:28:56] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:28:59] base_views -24 INFO page:1
+[2023-02-15 09:28:59] base_views -25 INFO kw:
+[2023-02-15 09:28:59] base_views -26 INFO div:
+[2023-02-15 09:28:59] base_views -27 INFO size:10
+[2023-02-15 09:28:59] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:28:59] log -241 WARNING Not Found: /favicon.ico
+[2023-02-15 09:29:08] base_views -24 INFO page:1
+[2023-02-15 09:29:08] base_views -25 INFO kw:
+[2023-02-15 09:29:08] base_views -26 INFO div:
+[2023-02-15 09:29:08] base_views -27 INFO size:10
+[2023-02-15 09:29:08] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:29:09] base_views -24 INFO page:1
+[2023-02-15 09:29:09] base_views -25 INFO kw:
+[2023-02-15 09:29:09] base_views -26 INFO div:
+[2023-02-15 09:29:09] base_views -27 INFO size:10
+[2023-02-15 09:29:09] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:30:22] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:30:24] base_views -24 INFO page:1
+[2023-02-15 09:30:24] base_views -25 INFO kw:
+[2023-02-15 09:30:24] base_views -26 INFO div:
+[2023-02-15 09:30:24] base_views -27 INFO size:10
+[2023-02-15 09:30:24] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:30:27] base_views -8 INFO 1.question_id:516
+[2023-02-15 09:30:27] base_views -11 INFO 2.question:금요일입니다0208
+[2023-02-15 09:30:27] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
+[2023-02-15 09:30:27] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+[2023-02-15 09:32:10] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:32:16] base_views -24 INFO page:1
+[2023-02-15 09:32:16] base_views -25 INFO kw:
+[2023-02-15 09:32:16] base_views -26 INFO div:
+[2023-02-15 09:32:16] base_views -27 INFO size:10
+[2023-02-15 09:32:16] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:32:18] base_views -8 INFO 1.question_id:533
+[2023-02-15 09:32:18] base_views -11 INFO 2.question:마크다운
+[2023-02-15 09:32:18] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
+[2023-02-15 09:32:18] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+[2023-02-15 09:32:24] base_views -8 INFO 1.question_id:516
+[2023-02-15 09:32:24] base_views -11 INFO 2.question:금요일입니다0208
+[2023-02-15 09:32:24] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
+[2023-02-15 09:32:24] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
