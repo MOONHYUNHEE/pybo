@@ -93,10 +93,10 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
 		'ENGINE': 'django.db.backends.mysql',
-		'NAME': 'pybo2_db',
-		'USER': 'pybo2_db',
-		'PASSWORD': 'mysql',
-		'HOST': 'ls-46a1da224b7f14e2d3a315170ce11fbfdcd2e7b8.cqkusnvcl9ga.ap-northeast-2.rds.amazonaws.com',
+		'NAME': 'mhh_db',
+		'USER': 'mhh_db',
+		'PASSWORD': 'm4321',
+		'HOST': 'ls-46a1dgit a224b7f14e2d3a315170ce11fbfdcd2e7b8.cqkusnvcl9ga.ap-northeast-2.rds.amazonaws.com',
 		'PORT': '3306',
     }
 }
