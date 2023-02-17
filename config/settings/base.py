@@ -90,6 +90,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 #host: localhost
 #post: 3306
 
+
 DATABASES = {
     'default': {
 		'ENGINE': 'django.db.backends.mysql',
