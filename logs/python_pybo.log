@@ -20396,3 +20396,1876 @@ django.core.exceptions.FieldError: Cannot resolve keyword 'answer' into field. C
 [2023-02-15 09:32:24] base_views -11 INFO 2.question:금요일입니다0208
 [2023-02-15 09:32:24] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
 [2023-02-15 09:32:24] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+[2023-02-15 09:51:28] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:52:08] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:53:30] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:53:33] base_views -24 INFO page:1
+[2023-02-15 09:53:33] base_views -25 INFO kw:
+[2023-02-15 09:53:33] base_views -26 INFO div:
+[2023-02-15 09:53:33] base_views -27 INFO size:10
+[2023-02-15 09:53:33] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:55:16] autoreload -266 INFO C:\projects\mysite\config\urls.py changed, reloading.
+[2023-02-15 09:55:16] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:56:27] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:56:29] base_views -24 INFO page:1
+[2023-02-15 09:56:29] base_views -25 INFO kw:
+[2023-02-15 09:56:29] base_views -26 INFO div:
+[2023-02-15 09:56:29] base_views -27 INFO size:10
+[2023-02-15 09:56:29] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:56:34] log -241 WARNING Not Found: /board/
+[2023-02-15 09:58:03] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:58:05] base_views -24 INFO page:1
+[2023-02-15 09:58:05] base_views -25 INFO kw:
+[2023-02-15 09:58:05] base_views -26 INFO div:
+[2023-02-15 09:58:05] base_views -27 INFO size:10
+[2023-02-15 09:58:05] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:58:10] log -241 WARNING Not Found: /board/
+[2023-02-15 09:58:28] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:58:32] log -241 WARNING Not Found: /board/
+[2023-02-15 09:59:22] autoreload -266 INFO C:\projects\mysite\config\urls.py changed, reloading.
+[2023-02-15 09:59:23] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:59:28] base_views -24 INFO page:1
+[2023-02-15 09:59:28] base_views -25 INFO kw:
+[2023-02-15 09:59:28] base_views -26 INFO div:
+[2023-02-15 09:59:28] base_views -27 INFO size:10
+[2023-02-15 09:59:28] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 09:59:34] log -241 WARNING Not Found: /board/
+[2023-02-15 09:59:36] log -241 WARNING Not Found: /board/
+[2023-02-15 09:59:37] log -241 WARNING Not Found: /board/
+[2023-02-15 09:59:42] autoreload -266 INFO C:\projects\mysite\board\urls.py changed, reloading.
+[2023-02-15 09:59:42] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 09:59:44] base_views -24 INFO page:1
+[2023-02-15 09:59:44] base_views -25 INFO kw:
+[2023-02-15 09:59:44] base_views -26 INFO div:
+[2023-02-15 09:59:44] base_views -27 INFO size:10
+[2023-02-15 09:59:44] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 10:11:03] autoreload -266 INFO C:\projects\mysite\config\settings.py changed, reloading.
+[2023-02-15 10:11:05] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:12:05] autoreload -266 INFO C:\projects\mysite\board\apps.py changed, reloading.
+[2023-02-15 10:12:05] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:12:49] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:14:33] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:31:39] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:31:41] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:41:04] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:42:30] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:42:46] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:43:20] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:43:21] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:43:43] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:43:43] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:43:56] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:43:57] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:44:49] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:44:50] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:44:57] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:44:58] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:45:14] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:45:14] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:48:58] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:49:00] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:49:11] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:49:12] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:52:13] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:52:15] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:53:06] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 10:53:07] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:53:30] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 10:53:36] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:11:18] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:11:52] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:11:54] base_views -24 INFO page:1
+[2023-02-15 11:11:54] base_views -25 INFO kw:
+[2023-02-15 11:11:54] base_views -26 INFO div:
+[2023-02-15 11:11:54] base_views -27 INFO size:10
+[2023-02-15 11:11:54] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 11:11:55] base_views -24 INFO page:1
+[2023-02-15 11:11:55] base_views -25 INFO kw:
+[2023-02-15 11:11:55] base_views -26 INFO div:
+[2023-02-15 11:11:55] base_views -27 INFO size:10
+[2023-02-15 11:11:55] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 11:13:54] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:17:13] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:17:16] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:17:25] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:17:26] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:17:34] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:17:35] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:17:51] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:17:52] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:18:10] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:18:11] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:18:28] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:18:28] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:19:21] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:19:21] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:19:51] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:19:52] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:20:00] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:20:01] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:20:34] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:20:35] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:20:50] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:20:51] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:22:09] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:22:09] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:22:22] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:22:23] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:23:16] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:23:16] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:23:42] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:23:42] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:24:38] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:24:38] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:25:09] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:25:10] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 11:25:36] autoreload -266 INFO C:\projects\mysite\board\models.py changed, reloading.
+[2023-02-15 11:25:37] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:09:53] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:09:57] base_views -24 INFO page:1
+[2023-02-15 12:09:57] base_views -25 INFO kw:
+[2023-02-15 12:09:57] base_views -26 INFO div:
+[2023-02-15 12:09:57] base_views -27 INFO size:10
+[2023-02-15 12:09:57] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 12:10:01] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:10:18] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:10:19] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:10:22] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:10:26] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:10:30] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:10:44] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:10:45] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:10:58] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:11:00] base_views -24 INFO page:1
+[2023-02-15 12:11:00] base_views -25 INFO kw:
+[2023-02-15 12:11:00] base_views -26 INFO div:
+[2023-02-15 12:11:00] base_views -27 INFO size:10
+[2023-02-15 12:11:00] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 12:11:06] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:11:18] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:13:14] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:13:16] base_views -24 INFO page:1
+[2023-02-15 12:13:16] base_views -25 INFO kw:
+[2023-02-15 12:13:16] base_views -26 INFO div:
+[2023-02-15 12:13:16] base_views -27 INFO size:10
+[2023-02-15 12:13:16] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 12:13:21] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:13:23] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:13:24] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:13:24] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:13:25] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:13:26] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:20:58] autoreload -266 INFO C:\projects\mysite\board\views.py changed, reloading.
+[2023-02-15 12:20:59] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:21:30] autoreload -266 INFO C:\projects\mysite\board\views.py changed, reloading.
+[2023-02-15 12:21:31] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:21:50] autoreload -266 INFO C:\projects\mysite\board\views.py changed, reloading.
+[2023-02-15 12:21:51] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:22:27] autoreload -266 INFO C:\projects\mysite\board\urls.py changed, reloading.
+[2023-02-15 12:22:27] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:22:43] autoreload -266 INFO C:\projects\mysite\board\urls.py changed, reloading.
+[2023-02-15 12:22:44] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:23:22] autoreload -266 INFO C:\projects\mysite\board\urls.py changed, reloading.
+[2023-02-15 12:23:22] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:23:52] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:23:54] base_views -24 INFO page:1
+[2023-02-15 12:23:54] base_views -25 INFO kw:
+[2023-02-15 12:23:54] base_views -26 INFO div:
+[2023-02-15 12:23:54] base_views -27 INFO size:10
+[2023-02-15 12:23:54] base_views -56 INFO question_list:<Page 1 of 52>
+[2023-02-15 12:23:58] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:06] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:07] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:07] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:07] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:07] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:07] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:08] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:08] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:09] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:24:32] base_views -8 INFO 1.question_id:533
+[2023-02-15 12:24:32] base_views -11 INFO 2.question:마크다운
+[2023-02-15 12:24:32] core -126 DEBUG Successfully loaded extension "markdown.extensions.nl2br.Nl2BrExtension".
+[2023-02-15 12:24:32] core -126 DEBUG Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+[2023-02-15 12:24:38] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:28:16] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:29:11] log -241 WARNING Not Found: /board/board_dt
+[2023-02-15 12:29:39] autoreload -266 INFO C:\projects\mysite\board\views.py changed, reloading.
+[2023-02-15 12:29:40] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:29:42] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:29:44] log -241 WARNING Not Found: /board/board_dt
+[2023-02-15 12:29:54] log -241 WARNING Not Found: /board/new_post/
+[2023-02-15 12:30:11] autoreload -266 INFO C:\projects\mysite\board\views.py changed, reloading.
+[2023-02-15 12:30:12] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:30:55] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:31:00] log -241 WARNING Not Found: /board/remove
+[2023-02-15 12:33:53] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:33:55] log -241 ERROR Internal Server Error: /board/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 489, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\mysite\board\views.py", line 9, in index
+    return render(request, 'board/board.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 176, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\engine.py", line 158, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\template\base.py", line 491, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 8
+[2023-02-15 12:34:13] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:34:30] log -241 WARNING Not Found: /index
+[2023-02-15 12:34:39] log -241 WARNING Not Found: /board/index
+[2023-02-15 12:35:19] autoreload -266 INFO C:\projects\mysite\board\views.py changed, reloading.
+[2023-02-15 12:35:19] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-15 12:36:22] autoreload -266 INFO C:\projects\mysite\board\urls.py changed, reloading.
+[2023-02-15 12:36:22] autoreload -677 INFO Watching for file changes with StatReloader
+[2023-02-16 14:29:42] autoreload -run_with_reloader -677 INFO Watching for file changes with StatReloader
+[2023-02-16 14:42:16] autoreload -run_with_reloader -677 INFO Watching for file changes with StatReloader
+[2023-02-16 14:43:07] base_views -index -24 INFO page:1
+[2023-02-16 14:43:07] base_views -index -25 INFO kw:
+[2023-02-16 14:43:07] base_views -index -26 INFO div:
+[2023-02-16 14:43:07] base_views -index -27 INFO size:10
+[2023-02-16 14:43:09] log -log_response -241 ERROR Internal Server Error: /pybo/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\projects\mysite\pybo\views\base_views.py", line 43, in index
+    page_obj = paginator.get_page(page)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 66, in get_page
+    number = self.validate_number(number)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 102, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+           ^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 543, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 528, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\venvs\mysite\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+[2023-02-16 14:43:09] basehttp -log_message -187 ERROR "GET /pybo/ HTTP/1.1" 500 170338
+[2023-02-16 14:43:09] log -log_response -241 WARNING Not Found: /favicon.ico
+[2023-02-16 14:43:09] basehttp -log_message -187 WARNING "GET /favicon.ico HTTP/1.1" 404 2542
+[2023-02-16 14:52:06] autoreload -run_with_reloader -677 INFO Watching for file changes with StatReloader
+[2023-02-16 14:52:10] base_views -index -24 INFO page:1
+[2023-02-16 14:52:10] base_views -index -25 INFO kw:
+[2023-02-16 14:52:10] base_views -index -26 INFO div:
+[2023-02-16 14:52:10] base_views -index -27 INFO size:10
+[2023-02-16 14:52:10] log -log_response -241 ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\projects\mysite\pybo\views\base_views.py", line 43, in index
+    page_obj = paginator.get_page(page)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 66, in get_page
+    number = self.validate_number(number)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 102, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+           ^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 543, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 528, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\venvs\mysite\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+[2023-02-16 14:52:10] basehttp -log_message -187 ERROR "GET / HTTP/1.1" 500 170158
+[2023-02-16 14:52:15] base_views -index -24 INFO page:1
+[2023-02-16 14:52:15] base_views -index -25 INFO kw:
+[2023-02-16 14:52:15] base_views -index -26 INFO div:
+[2023-02-16 14:52:15] base_views -index -27 INFO size:10
+[2023-02-16 14:52:15] log -log_response -241 ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\projects\mysite\pybo\views\base_views.py", line 43, in index
+    page_obj = paginator.get_page(page)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 66, in get_page
+    number = self.validate_number(number)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 102, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+           ^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 543, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 528, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\venvs\mysite\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+[2023-02-16 14:52:15] basehttp -log_message -187 ERROR "GET / HTTP/1.1" 500 170295
+[2023-02-16 14:52:21] base_views -index -24 INFO page:1
+[2023-02-16 14:52:21] base_views -index -25 INFO kw:
+[2023-02-16 14:52:21] base_views -index -26 INFO div:
+[2023-02-16 14:52:21] base_views -index -27 INFO size:10
+[2023-02-16 14:52:21] log -log_response -241 ERROR Internal Server Error: /pybo/
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\projects\mysite\pybo\views\base_views.py", line 43, in index
+    page_obj = paginator.get_page(page)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 66, in get_page
+    number = self.validate_number(number)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+                ^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 102, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+       ^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\core\paginator.py", line 96, in count
+    return c()
+           ^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\query.py", line 470, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 543, in get_count
+    number = obj.get_aggregation(using, ["__count"])["__count"]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\query.py", line 528, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\models\sql\compiler.py", line 1361, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\venvs\mysite\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "C:\venvs\mysite\Lib\site-packages\MySQLdb\connections.py", line 254, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'aproject_db.pybo_question' doesn't exist")
+[2023-02-16 14:52:21] basehttp -log_message -187 ERROR "GET /pybo/ HTTP/1.1" 500 170208

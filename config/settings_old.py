@@ -39,6 +39,7 @@ ALLOWED_HOSTS = ["*"]
 # Application definition
 
 INSTALLED_APPS = [
+	'board.apps.BoardConfig',
 	'common.apps.CommonConfig',
     'pybo.apps.PyboConfig',
     'django.contrib.admin',
@@ -83,10 +84,20 @@ WSGI_APPLICATION = 'config.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
+#DB 새로 생성
+#name : aproject_db
+#user : root
+#password: 4321
+#host: localhost
+#post: 3306
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+		'NAME': 'aproject_db',
+		'USER': 'root',
+		'PASSWORD': 'mysql',
+		'HOST': 'localhost',
+		'PORT': '3306',
         # BASE_DIR = mysite
     }
 }

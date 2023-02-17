@@ -7,7 +7,7 @@ since 2023.01.09 Copyright (c) by KandJang All right reserved.
 '''
 
 from django.urls import path
-from . views import question_views, answer_views, boot_views, base_views  # 현재 디렉토리에 views 모듈을 갖다 놓음
+from . views import question_views, answer_views, boot_views, base_views  # 현재 디렉토리에 views2 모듈을 갖다 놓음
 
 app_name = 'pybo'
 
