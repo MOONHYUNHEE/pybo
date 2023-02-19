@@ -20,10 +20,10 @@ environ.Env.read_env(BASE_DIR / '.env')
 DATABASES = {
     'default': {
 		'ENGINE': 'django.db.backends.mysql',
-		'NAME': env('DB_NAME'),
-		'USER': env('DB_USER'),
-		'PASSWORD': env('DB_PASSWORD'),
-		'HOST': env('DB_HOST'),
+		'NAME': env('mhh_db'),  #DB_NAME
+		'USER': env('mhh'), #DB_USER
+		'PASSWORD': env('m4321'), #DB_PASSWORD
+		'HOST': env('ls-46a1da224b7f14e2d3a315170ce11fbfdcd2e7b8.cqkusnvcl9ga.ap-northeast-2.rds.amazonaws.com'), #DB_HOST
 		'PORT': '3306',
     }
 }
